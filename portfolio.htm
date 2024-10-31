@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link href="htmlPortfolio_files/css2.css" rel="stylesheet">
+    <link rel="stylesheet" href="htmlPortfolio_files/style.css">
+</head>
+<body>
+
+    <h1><center>Sartaj's Portfolio</center></h1>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#skills">Skills</a>
+        <a href="#education">Education</a>
+        <a href="#experience">Experience</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<div class="container">
+    <section id="about">
+        <h2>About Me</h2>
+        <img src="C:\Users\shaba\Downloads\IMG_20241031_172440.jpg" class="profile-photo">
+        <div class="box">Hi, my name is <b>syed sartaj akhtar </b>. I'm <b>12</b> years old and a <b>class 7 </b> student at <b>Pride International School</b>. I enjoy studying <b>english </b>and
+ working on my creative ideas, and I always aim to improve in everything
+ I do. I’m a bit introverted, but i really like to maintain a proper friendship and relationships. I’m determined, <b>hardworking</b>, and <b>focused</b> on making my parents proud of me.</div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <div class="box">gaming</div>
+        <div class="box">Art &amp; Drawing</div>
+        <div class="box">Basic Programming</div>
+        <div class="box">Public Speaking</div>
+        <div class="box">maintaining a youtube channel</div>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <div class="box">Currently studying in class 7 at <b>Pride International School</b>.</div>
+        <div class="box">programming and <b>video editing</b>.</div>
+        <div class="box">Favorite subjects: Science and english</div>
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <div class="box">School Events Volunteer</div>
+        <div class="box">Public speaking and presentations.</div>
+        <div class="box">Art and craft tornament Participant</div>
+        <div class="box">olimpiad participant</div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <div class="box">Email:<b>akhtarfatima323@gmail.com</b></div>
+        <div class="box">
+            <label for="yt-link">
+                
+            <a id="yt-link" href="https://youtube.com/@senpaissnake?si=flw17uZnkiU8SnDo"><img id="yt-logo" src="C:\Users\shaba\OneDrive - Unilever\Pictures\Screenshots\youtube channel.png"></a>
+        </label></div>
+    </section>
+</div>
+
+<footer>
+
+    <img src="My%20Portfolio_files/pis-nke-logo.png" id="pis-logo">
+    <nav>
+    <a href="#about">About Me</a>
+    <a href="#skills">Skills</a>
+    <a href="#education">Education</a>
+    <a href="#experience">Experience</a>
+    <a href="#contact">Contact</a>
+    </nav>
+    <div id="copyright-box">
+    <p>© by syed sartaj ahtar from class 7 </p>
+   
+</div></footer>
+
+
+</body></html>

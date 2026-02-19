@@ -1,1 +1,0 @@
-# sartaj-akhtar-portfolio
